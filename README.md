@@ -48,4 +48,28 @@ Check out the live version of **Wordly** here:
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/your-username/wordly.git
+2. Import the MySQL database:
+ 
+   sql
+   -- Use the provided wordly.sql file
+   
+3. Set up the PHP server and ensure the database connection is configured.
+4. Open index.html in your browser or run via localhost.
+
+---
+
+---
+
+## 🤝 Contribution
+
+Contributions are welcome!
+
+* Fork the repository
+* Create your feature branch: git checkout -b feature-name
+* Commit your changes: git commit -m "Add feature"
+* Push to the branch: git push origin feature-name
+* Open a Pull Request
+
+---
+
 
