@@ -51,7 +51,7 @@ Check out the live version of **Wordly** here:
 2. Import the MySQL database:
  
    sql
-   -- Use the provided wordly.sql file
+   -- Use the provided file : C:\xampp\htdocs\project_root\public\mysqli_connect.php
    
 3. Set up the PHP server and ensure the database connection is configured.
 4. Open index.html in your browser or run via localhost.
