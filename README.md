@@ -15,13 +15,23 @@
 * **Responsive Design:** Works seamlessly on desktops, tablets, and mobiles.
 
 ---
+##Live Demo
 
+Check out the live version of Wordly here:
+🌐 Live Demo
+
+---
 ## 💻 Tech Stack
 
 * **Frontend:** HTML, CSS, JavaScript
 * **Backend:** PHP
 * **Database:** MySQL
 
+---
+## 📸 Screenshots (optional)
+
+<img width="1829" height="954" alt="image" src="C:\Users\DELL\Pictures\Screenshots\Screenshot 2025-10-15 223543.png"/>
+<img width="1829" height="954" alt="image" src="C:\Users\DELL\Pictures\Screenshots\Screenshot 2025-10-15 223527.png"/>
 ---
 
 ## 🚀 Getting Started
