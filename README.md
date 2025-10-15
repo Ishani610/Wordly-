@@ -18,7 +18,7 @@
 ##Live Demo
 
 Check out the live version of Wordly here:
-🌐 Live Demo
+🌐 Live Demo:(http://localhost/project_root/public/login.php)
 
 ---
 ## 💻 Tech Stack
