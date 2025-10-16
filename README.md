@@ -32,14 +32,9 @@ Check out the live version of **Wordly** here:
 ---
 
 ## 📸 Screenshots
+<img width="1482" height="1002" alt="Screenshot 2025-10-15 223543" src="https://github.com/user-attachments/assets/abfeff2c-b496-47d5-81a5-ad346396b408" />
+<img width="1885" height="973" alt="Screenshot 2025-10-15 223527" src="https://github.com/user-attachments/assets/2113fbfc-52eb-42d3-8b08-cc5cf5af01bf" />
 
-<p align="center">
-  <img src="./images/Screenshot1.png" alt="Wordly Screenshot 1" width="800"/>
-  <br><br>
-  <img src="./images/Screenshot2.png" alt="Wordly Screenshot 2" width="800"/>
-</p>
-
-*(Upload your screenshots to your repo in a folder named `images` and make sure the filenames match.)*
 
 ---
 
