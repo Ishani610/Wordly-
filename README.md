@@ -19,8 +19,6 @@
 Check out the live version of **Wordly** here:  
 👉 [**Live Demo**](http://localhost/project_root/public/login.php)
 
-*(Replace with your actual deployed link if available — localhost won’t work on GitHub.)*
-
 ---
 
 ## 💻 Tech Stack
