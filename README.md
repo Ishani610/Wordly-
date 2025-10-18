@@ -30,9 +30,10 @@ Check out the live version of **Wordly** here:
 ---
 
 ## 📸 Screenshots
-<img width="1482" height="1002" alt="Screenshot 2025-10-15 223543" src="https://github.com/user-attachments/assets/abfeff2c-b496-47d5-81a5-ad346396b408" />
-<img width="1885" height="973" alt="Screenshot 2025-10-15 223527" src="https://github.com/user-attachments/assets/2113fbfc-52eb-42d3-8b08-cc5cf5af01bf" />
 
+<img width="1865" height="976" alt="Screenshot 2025-10-18 230816" src="https://github.com/user-attachments/assets/83889e46-dfa2-4d61-aa92-7db7837acc9f" />
+
+<img width="1879" height="977" alt="Screenshot 2025-10-18 230735" src="https://github.com/user-attachments/assets/dfc38d8c-e1f1-4ebb-bbda-291f38dd8209" />
 
 ---
 
